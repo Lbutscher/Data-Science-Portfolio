@@ -4,7 +4,7 @@ Ils ont tous été réalisés au cours de la formation "Data Analyst" d'Openclas
 
 # Les projets : 
 
-[24h dans la peau d'un data analyst](https://github.com/Lbutscher/Data-Science-Portfolio/tree/master/Projet%202%20-%2024h%20dans%20la%20peau%20d'un%20Data%20Analyst)
+**[24h dans la peau d'un data analyst](https://github.com/Lbutscher/Data-Science-Portfolio/tree/master/Projet%202%20-%2024h%20dans%20la%20peau%20d'un%20Data%20Analyst)**
 
 Mise en situation :
 
@@ -17,11 +17,11 @@ Cependant cette présentation devra être courte. L'idéal serait 5 slides au ma
 
 Compétences : 
 
--Mieux comprendre le métier de Data Analyst
--Interpréter et donner un regard critique sur des données graphiques
--S'exprimer au sein d'une entreprise
+- Mieux comprendre le métier de Data Analyst
+- Interpréter et donner un regard critique sur des données graphiques
+- S'exprimer au sein d'une entreprise
 
-[Réalisez une étude de santé publique](https://github.com/Lbutscher/Data-Science-Portfolio/tree/master/Projet%203%20-%20Realisez%20une%20etude%20de%20sante%20publique)
+**[Réalisez une étude de santé publique](https://github.com/Lbutscher/Data-Science-Portfolio/tree/master/Projet%203%20-%20Realisez%20une%20etude%20de%20sante%20publique)**
 
 Mise en situation :
 
@@ -33,21 +33,21 @@ Ainsi, une poignée de data analysts (dont vous !) a été sélectionnée pour m
 
 Compétences : 
 
--Appréhender l’importance de la “connaissance métier” dans l’activité de Data Analyst
--Maîtriser les bases de Python
--Appliquer l'algèbre relationnelle en Python
--Utiliser les librairies orientées Data Science
--Effectuer des requêtes complexes en SQL
--Utiliser une documentation technique
+- Appréhender l’importance de la “connaissance métier” dans l’activité de Data Analyst
+- Maîtriser les bases de Python
+- Appliquer l'algèbre relationnelle en Python
+- Utiliser les librairies orientées Data Science
+- Effectuer des requêtes complexes en SQL
+- Utiliser une documentation technique
 
 
 Notions utilisées :
  
--Algèbre relationnelle 
--Language Python
--Librairie Pandas, Numpy, Scipy et sklearn.
+- Algèbre relationnelle 
+- Language Python
+- Librairie Pandas, Numpy, Scipy et sklearn.
 
-[Analysez les résultats de votre entreprise](https://github.com/Lbutscher/Data-Science-Portfolio/tree/master/Projet%204%20-%20Analysez%20les%20resultats%20de%20votre%20entreprise)
+**[Analysez les résultats de votre entreprise](https://github.com/Lbutscher/Data-Science-Portfolio/tree/master/Projet%204%20-%20Analysez%20les%20resultats%20de%20votre%20entreprise)**
 
 Mise en situation :
 
@@ -61,17 +61,17 @@ Votre entreprise, "Rester livres" s'est d'abord développée dans une grande vil
 
 Compétences : 
 
--Nettoyer un jeu de données
--Décrire un jeu de donnée par la statistique descriptive
--Maîtriser les concepts statistiques fondamentaux
+- Nettoyer un jeu de données
+- Décrire un jeu de donnée par la statistique descriptive
+- Maîtriser les concepts statistiques fondamentaux
 
 
 Notions utilisées :
  
--Statistique descriptive 
--Language Python.
+- Statistique descriptive 
+- Language Python.
 
-[Produisez une étude de marché](https://github.com/Lbutscher/Data-Science-Portfolio/tree/master/Projet%205%20-%20Produisez%20une%20etude%20de%20marche)
+**[Produisez une étude de marché](https://github.com/Lbutscher/Data-Science-Portfolio/tree/master/Projet%205%20-%20Produisez%20une%20etude%20de%20marche)**
 
 Mise en situation :
 
@@ -85,17 +85,17 @@ Dans un premier temps, la stratégie est plutôt d'exporter les produits plutôt
 
 Compétences : 
 
--Maîtriser la statistique inférentielle
--Construire et lire un dendogramme
--Interpréter une ACP
+- Maîtriser la statistique inférentielle
+- Construire et lire un dendogramme
+- Interpréter une ACP
 
 
 Notions utilisées :
  
--statistique descriptive 
--Classification automatique.
+- Statistique descriptive 
+- Classification automatique.
 
-[Détectez de faux billets](https://github.com/Lbutscher/Data-Science-Portfolio/tree/master/Projet%206%20-%20D%C3%A9tectez%20des%20faux-billets)
+**[Détectez de faux billets](https://github.com/Lbutscher/Data-Science-Portfolio/tree/master/Projet%206%20-%20D%C3%A9tectez%20des%20faux-billets)**
 
 Mise en situation :
 
@@ -107,19 +107,19 @@ Votre mission : créer un algorithme de détection de faux billets.
 
 Compétences : 
 
--Utiliser un algorithme de clustering de type Kmeans
--Réaliser une ACP
--Interpréter une ACP
--Modéliser grâce à la régression logistique
--Réaliser une brève description des données
+- Utiliser un algorithme de clustering de type Kmeans
+- Réaliser une ACP
+- Interpréter une ACP
+- Modéliser grâce à la régression logistique
+- Réaliser une brève description des données
 
 
 Notions utilisées :
  
--statistique descriptive
--Analyse en Composantes Principales
--Classification automatique
--Modélisation de type régression logistique.
+- statistique descriptive
+- Analyse en Composantes Principales
+- Classification automatique
+- Modélisation de type régression logistique.
 
 # Effectuez une prédiction de revenus
 
