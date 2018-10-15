@@ -4,7 +4,7 @@ Ils ont tous été réalisés au cours de la formation "Data Analyst" d'Openclas
 
 # Les projets : 
 
-**[24h dans la peau d'un data analyst](https://github.com/Lbutscher/Data-Science-Portfolio/tree/master/Projet%202%20-%2024h%20dans%20la%20peau%20d'un%20Data%20Analyst)**
+##**[24h dans la peau d'un data analyst](https://github.com/Lbutscher/Data-Science-Portfolio/tree/master/Projet%202%20-%2024h%20dans%20la%20peau%20d'un%20Data%20Analyst)**
 
 Mise en situation :
 
@@ -21,7 +21,7 @@ Compétences :
 - Interpréter et donner un regard critique sur des données graphiques
 - S'exprimer au sein d'une entreprise
 
-**[Réalisez une étude de santé publique](https://github.com/Lbutscher/Data-Science-Portfolio/tree/master/Projet%203%20-%20Realisez%20une%20etude%20de%20sante%20publique)**
+##**[Réalisez une étude de santé publique](https://github.com/Lbutscher/Data-Science-Portfolio/tree/master/Projet%203%20-%20Realisez%20une%20etude%20de%20sante%20publique)**
 
 Mise en situation :
 
@@ -47,7 +47,7 @@ Notions utilisées :
 - Language Python
 - Librairie Pandas, Numpy, Scipy et sklearn.
 
-**[Analysez les résultats de votre entreprise](https://github.com/Lbutscher/Data-Science-Portfolio/tree/master/Projet%204%20-%20Analysez%20les%20resultats%20de%20votre%20entreprise)**
+##**[Analysez les résultats de votre entreprise](https://github.com/Lbutscher/Data-Science-Portfolio/tree/master/Projet%204%20-%20Analysez%20les%20resultats%20de%20votre%20entreprise)**
 
 Mise en situation :
 
@@ -71,7 +71,7 @@ Notions utilisées :
 - Statistique descriptive 
 - Language Python.
 
-**[Produisez une étude de marché](https://github.com/Lbutscher/Data-Science-Portfolio/tree/master/Projet%205%20-%20Produisez%20une%20etude%20de%20marche)**
+##**[Produisez une étude de marché](https://github.com/Lbutscher/Data-Science-Portfolio/tree/master/Projet%205%20-%20Produisez%20une%20etude%20de%20marche)**
 
 Mise en situation :
 
@@ -95,7 +95,7 @@ Notions utilisées :
 - Statistique descriptive 
 - Classification automatique.
 
-**[Détectez de faux billets](https://github.com/Lbutscher/Data-Science-Portfolio/tree/master/Projet%206%20-%20D%C3%A9tectez%20des%20faux-billets)**
+##**[Détectez de faux billets](https://github.com/Lbutscher/Data-Science-Portfolio/tree/master/Projet%206%20-%20D%C3%A9tectez%20des%20faux-billets)**
 
 Mise en situation :
 
@@ -121,14 +121,14 @@ Notions utilisées :
 - Classification automatique
 - Modélisation de type régression logistique.
 
-# Effectuez une prédiction de revenus
+## Effectuez une prédiction de revenus
 
 à venir
 
-# Communiquez vos résultats
+## Communiquez vos résultats
 
 à venir
 
-# Prédisez la demande en électricité
+## Prédisez la demande en électricité
 
 à venir
