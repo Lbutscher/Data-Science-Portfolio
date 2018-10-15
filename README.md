@@ -57,6 +57,8 @@ Votre manager souhaite que vous réalisiez une présentation pour vous "faire la
 Votre entreprise, "Rester livres" s'est d'abord développée dans une grande ville de France, avec plusieurs magasins, jusqu'à décider d'ouvrir une boutique en ligne.
  Son approche de la vente de livres en ligne, basée sur des algorithmes de recommandation, lui a valu un franc succès !
 
+![Graphique P4](https://github.com/Lbutscher/Data-Science-Portfolio/blob/master/Projet%204%20-%20Analysez%20les%20resultats%20de%20votre%20entreprise/graphs_P4/hist_CA_categ.png)
+
 Compétences : 
 
 -Nettoyer un jeu de données
@@ -79,6 +81,8 @@ Votre objectif sera d'aider à cibler plus particulièrement certains pays, dans
 Plus particulièrement, l'idéal serait de produire des "groupes" de pays, plus ou moins gros, dont on connaît les caractéristiques.
 Dans un premier temps, la stratégie est plutôt d'exporter les produits plutôt que de produire sur place, c'est-à-dire dans le(s) nouveau(x) pays ciblé(s).
 
+![Graphique P5](https://github.com/Lbutscher/Data-Science-Portfolio/blob/master/Projet%205%20-%20Produisez%20une%20etude%20de%20marche/dendrogramme_P5.png)
+
 Compétences : 
 
 -Maîtriser la statistique inférentielle
@@ -98,6 +102,8 @@ Mise en situation :
 Votre société de consulting informatique vous propose une nouvelle mission au ministère de l'intérieur,
 dans le cadre de la lutte contre la criminalité organisée, à l'office central pour la répression du faux monnayage .
 Votre mission : créer un algorithme de détection de faux billets.
+
+![Graphique P6](https://github.com/Lbutscher/Data-Science-Portfolio/blob/master/Projet%206%20-%20D%C3%A9tectez%20des%20faux-billets/Graphs/ACP/projection.png)
 
 Compétences : 
 
