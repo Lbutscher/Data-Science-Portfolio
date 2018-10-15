@@ -4,7 +4,7 @@ Ils ont tous été réalisés au cours de la formation "Data Analyst" d'Openclas
 
 # Les projets : 
 
-# 24h dans la peau d'un data analyst
+[24h dans la peau d'un data analyst](https://github.com/Lbutscher/Data-Science-Portfolio/tree/master/Projet%202%20-%2024h%20dans%20la%20peau%20d'un%20Data%20Analyst)
 
 Mise en situation :
 
