@@ -13,7 +13,7 @@ En fin d'après-midi, à 17h, vous devrez présenter les résultats des ventes d
 Cependant cette présentation devra être courte. L'idéal serait 5 slides au maximum, avec 1 seul graphique par slide.
 
 
-[[https://github.com/Lbutscher/Data-Science-Portfolio/blob/master/Projet%202%20-%2024h%20dans%20la%20peau%20d'un%20Data%20Analyst/P2_graphs/Utilises/12.png]]  
+![Graphique P2](https://github.com/Lbutscher/Data-Science-Portfolio/blob/master/Projet%202%20-%2024h%20dans%20la%20peau%20d'un%20Data%20Analyst/P2_graphs/Utilises/12.png)
 
 Compétences : 
 
