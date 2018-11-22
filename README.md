@@ -81,7 +81,7 @@ Votre objectif sera d'aider à cibler plus particulièrement certains pays, dans
 Plus particulièrement, l'idéal serait de produire des "groupes" de pays, plus ou moins gros, dont on connaît les caractéristiques.
 Dans un premier temps, la stratégie est plutôt d'exporter les produits plutôt que de produire sur place, c'est-à-dire dans le(s) nouveau(x) pays ciblé(s).
 
-![Graphique P5](https://github.com/Lbutscher/Data-Science-Portfolio/blob/master/Projet%205%20-%20Produisez%20une%20etude%20de%20marche/dendrogramme_P5.png)
+![Graphique P5](https://github.com/Lbutscher/Data-Science-Portfolio/blob/master/Projet%205%20-%20Produisez%20une%20etude%20de%20marche/dendrogramme_petit.png)
 
 Compétences : 
 
